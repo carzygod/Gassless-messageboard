@@ -1,0 +1,31 @@
+/font-end/.DS_Store
+/font-end//node_modules
+/font-end/dist
+# local env files
+/font-end/.env.local
+/font-end/.env.*.local
+# Log files
+/font-end/npm-debug.log*
+/font-end/yarn-debug.log*
+/font-end/yarn-error.log*
+/font-end/pnpm-debug.log*
+# Editor directories and files
+/font-end/.idea
+/font-end/.vscode
+/font-end/*.suo
+/font-end/*.ntvs*
+/font-end/*.njsproj
+/font-end/*.sln
+/font-end/*.sw?
+
+
+contract/node_modules
+contract/.env
+contract/coverage
+contract/coverage.json
+contract/typechain
+
+#Hardhat files
+contract/cache
+contract/artifacts
+contract/hardhat.config.js
